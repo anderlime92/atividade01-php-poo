@@ -46,7 +46,7 @@ require_once "src/Planta.php";
 
                 <span class="valor">
                     <!-- Exiba a quantidade diária em ml. -->
-                     50ml a cada quinzena ou mensal
+                     50ml a cada quinzena ou mensal (vaso pequeno)
                 </span>
             </div>
 
@@ -55,6 +55,7 @@ require_once "src/Planta.php";
 
                 <p>
                     <!-- Exiba a quantidade calculada para sete dia -->
+                    Somente quinzenal ou no máximo 45 dias no inverno sulamericano
                 </p>
             </div>
 
