@@ -50,15 +50,14 @@ Crie um objeto da classe Planta.
 Utilize os seguintes dados: 
 
 Informação 
-
-Valor 
-
 Nome popular 
 
 Suculenta 
 
 Espécie 
 
+
+Valor 
 Echeveria elegans 
 
 Água por dia 

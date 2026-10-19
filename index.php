@@ -29,6 +29,7 @@ require_once "src/Planta.php";
 
             <h2>
                 <!-- Exiba o nome popular da planta. -->
+                Cacto
             </h2>
 
             <div class="informacao">
@@ -36,6 +37,7 @@ require_once "src/Planta.php";
 
                 <span class="valor">
                     <!-- Exiba a espécie. -->
+                     Cactaceae
                 </span>
             </div>
 
@@ -44,6 +46,7 @@ require_once "src/Planta.php";
 
                 <span class="valor">
                     <!-- Exiba a quantidade diária em ml. -->
+                     50ml a cada quinzena ou mensal
                 </span>
             </div>
 
